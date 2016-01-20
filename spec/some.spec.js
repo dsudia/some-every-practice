@@ -42,4 +42,4 @@ describe('myCode', function () {
                     'In Carcosa.'];
     expect(myCode.lostCarcosa(badInput)).toBe(false);
   });
-})
+});
